@@ -1,0 +1,2 @@
+
+failed to authenticate via web browser: Post "https://github.com/login/device/code": read tcp 10.6.244.66:58961->57.155.223.240:443: wsarecv: An established connection was aborted by the software in your host machine.
